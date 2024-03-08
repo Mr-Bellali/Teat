@@ -47,7 +47,7 @@ int main(){
     scanf("%c",&lowerCase);
     printf("Majescule: %c",ToUpperCase(lowerCase));
 }
-
+*/
 float addition(float a, float b){
     return a + b;
 }
@@ -62,4 +62,4 @@ int main(){
 
     printf("%.2f",addition(a,b));
 }
-*/
+
